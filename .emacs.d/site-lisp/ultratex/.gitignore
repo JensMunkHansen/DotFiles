@@ -1,0 +1,13 @@
+*.elc
+*.aux
+*.cp
+*.cps
+*.dvi
+*.pdf
+*.fn
+*.fns
+*.log
+*.toc
+*.info
+*.vr
+*.vrs
