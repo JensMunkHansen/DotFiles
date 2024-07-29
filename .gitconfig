@@ -1,0 +1,5 @@
+[user]
+	email = Jens.Hansen@3shape.com
+	name = Jens Munk Hansen
+[core]
+	editor = emacs -nw
